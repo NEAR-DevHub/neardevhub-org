@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+        "source": "/(.*)",
+        "permanent": true,
+        "destination": "https://devhub.near.page"
+    }
+  ]
+}
