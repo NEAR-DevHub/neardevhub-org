@@ -3,7 +3,7 @@
     {
         "source": "/(.*)",
         "permanent": true,
-        "destination": "https://devhub.near.page"
+        "destination": "https://nearn.io/devhub"
     }
   ]
 }
